@@ -1,0 +1,27 @@
+.duck {
+  display: block;
+  width: 120px;
+  margin: 1.5rem auto;
+}
+.mainForm {
+  margin: 0 auto;
+  width: 350px;
+}.mainForm input{
+   margin: 10px 0 10px 0;
+ }.mainForm form{
+    text-align: right;
+  }
+.uploadButton {
+  display: block;
+  background: #647b7f;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.uploadButton:hover {
+  background: #56797f;
+}
+.uploadPhoto{
+  opacity: 0;
+  z-index: -1;
+}
