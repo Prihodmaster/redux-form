@@ -1,3 +1,3 @@
-git clone https://github.com/Prihodmaster/redux-form.git
-npm install
+git clone https://github.com/Prihodmaster/redux-form.git  
+npm install  
 npm start
